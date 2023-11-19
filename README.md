@@ -1,1 +1,2 @@
-# password-generator
+# my-password-generater
+to generate password
